@@ -19,6 +19,7 @@ Mateus Martins Peres.
 ## Como executar
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
+3. Link para você poderá acessar o jogo [flat UI Clorss(https://jogo-desafio-das-cores.vercel.app/).
 
 ## Créditos
 - Exercício de manipulação do DOM com JavaScript.
