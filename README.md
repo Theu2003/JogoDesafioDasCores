@@ -19,7 +19,7 @@ Mateus Martins Peres.
 ## Como executar
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
-3. Aqui , você poderá acessar o jogo [Jogo das cores ](https://jogo-desafio-das-cores.vercel.app/).
+3. Aqui , você poderá acessar o [Jogo das cores ](https://jogo-desafio-das-cores.vercel.app/).
 
 ## Créditos
 - Exercício de manipulação do DOM com JavaScript.
