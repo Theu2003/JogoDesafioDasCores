@@ -1,7 +1,7 @@
 # Desafio das Cores
 
 ## Nome
-Mateus Martins Peres.
+Mateus Martins Peres
 
 ## Regras do Jogo
 - O jogo exibe uma grade 3x3 de quadrados coloridos (9 cores diferentes).
@@ -19,6 +19,7 @@ Mateus Martins Peres.
 ## Como executar
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
+3. Aqui , você poderá acessar o [Jogo das cores ](https://jogo-desafio-das-cores.vercel.app/).
 
 ## Créditos
 - Exercício de manipulação do DOM com JavaScript.
